@@ -1,0 +1,15 @@
+[submodule "spring-boot-with-kotlin"]
+	path = spring-boot-with-kotlin
+	url = ./spring-boot-with-kotlin/
+[submodule "springboot-with-java-jpa"]
+	path = springboot-with-java-jpa
+	url = ./springboot-with-java-jpa
+[submodule "springboot-with-java"]
+	path = springboot-with-java
+	url = ./springboot-with-java
+[submodule "kotlin-aspire-assignment"]
+	path = kotlin-aspire-assignment
+	url = ./kotlin-aspire-assignment
+[submodule "Kotlin101"]
+	path = Kotlin101
+	url = ./Kotlin101
