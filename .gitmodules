@@ -1,0 +1,15 @@
+[submodule "kotlin-aspire-springboot-jpa"]
+	path = kotlin-aspire-springboot-jpa
+	url = https://github.com/uberkautilya/kotlin-aspire-springboot-jpa.git
+[submodule "kotlin-aspire"]
+	path = kotlin-aspire
+	url = https://github.com/uberkautilya/kotlin-aspire.git
+[submodule "springboot-kotlin-aspire-assignment"]
+	path = springboot-kotlin-aspire-assignment
+	url = https://github.com/uberkautilya/springboot-kotlin-aspire-assignment.git
+[submodule "spring-boot-with-kotlin-aspire"]
+	path = spring-boot-with-kotlin-aspire
+	url = https://github.com/uberkautilya/spring-boot-with-kotlin-aspire.git
+[submodule "kotlin-training"]
+	path = kotlin-training
+	url = https://github.com/uberkautilya/kotlin-training.git
